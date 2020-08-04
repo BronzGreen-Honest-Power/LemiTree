@@ -1,9 +1,5 @@
 # General rules Tactic Collections:
 
-
-
-
-
 # Tactic Collection - ...
 
 --> Title 'Tactic Collection - ...' in ctrl + 1 (heading 1)
@@ -33,8 +29,6 @@
 --> Highlight tactics that have some sources/are partially worked out in the table of content with ctrl + I (italics)
 
 --> Tactics that have no work on them in plain text
-
-
 
 ## Introduction
 
@@ -76,10 +70,6 @@
 
 **(1) [Title of the paper]()**
 
-
-
-
-
 --> Headings of chapters in ctrl + 2 (heading 2)
 
 --> All text in plain
@@ -89,10 +79,6 @@
 --> 'intro:', 'Why:', 'How:' and 'Sources:' all in ctrl + 6 (heading 6)
 
 --> Sources themselves are numbered by (1), (2), (3), ... after which you add the title in square brackets [], immediately followed by round brackets() with the url in it. In case the source is a scientific study, please also make it bold by doing ctrl + b
-
-
-
-
 
 # Tactic Collection - Sleep
 
@@ -250,8 +236,6 @@
    
    4.6 Activating sound
 
-
-
 ## Introduction
 
 [1] This strategy collection will cover a compact, comprehensive and constructive overview of tactics to improve our sleep quality, as well as reduce the time it takes to fall asleep.  As with the other tactic collections, for each tactic a brief introduction will be given, as well as the benefits of the particular tactic and lastly how we can implement it in our lives. <mark>* (* this tackles part of the “you cannot derive an ought from an is” problem that David Hume pointed out, which partially implies that by merely knowing a fact, it does not imply we know how to implement that fact in our lives. A second part which relates to Buddhism more is that we might know why something might be useful to us, but it’s a lower degree of wisdom than having lived and experienced it, for then we not only know but also feel the (dis)advantages it carries along.)</mark>
@@ -260,8 +244,6 @@
 
 <mark>Limitations --> reductionism; emergence principle; disclaimer: listen to our own body and soul; not all strategies will be applicable to all of us e.g. if we are a night shift worker; don’t even need most of the strategies for already a decent sleep quality.</mark>
 
-
-
 ## Why is this strategy collection important for us?
 
 [3] Sleep is a natural way for our body to rest and regenerate, leading to restored
@@ -269,12 +251,7 @@ performance capabilities. In general, one of the most valuable aspects of improv
 
 [4] It is therefore reasonable that we all can benefit from better sleep, as it improves our life satisfaction, our performance and health in general (1)(17), which leads us to get into an upward spiral more and more as we have a better mood, make fewer mistakes, and have a lower chance of different types of disease.
 
-
-
 ###### Sources:
-
-
-
 
 **(1) [Sleep duration and life satisfaction](https://www.diw.de/documents/publikationen/73/diw_01.c.500280.de/diw_sp0745.pdf)**
 
@@ -312,8 +289,6 @@ performance capabilities. In general, one of the most valuable aspects of improv
 
 **(18) [A Daily Diary Study on Sleep Quality and Procrastination at Work: The Moderating Role of Trait Self-Control](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02029/full)**
 
-
-
 ## 1. General Tips
 
 [5] An overview of the benefits related to sleep of some of the most common keystone habits and important areas of our lives will follow below. Keystone habits and improving in the generally important areas of our lives automatically improve other areas as well, leading to our progress turning into an upward spiral.
@@ -326,15 +301,11 @@ performance capabilities. In general, one of the most valuable aspects of improv
 
 ###### Why:
 
-
-
 [7] Even though a lot of benefits of improving your life satisfaction seem to be intuitive, we will not go much deeper in the wide variety of benefits here, as this will be the topic of the <mark>Tactic Collection – Life Satisfaction</mark> instead.
 
 [8] Here we will note some of the benefits of a higher life satisfaction related to your sleep. It leads to having lower chance of getting sleep disorders during midlife (1), especially when low life satisfaction is expressed in a depressed mood (2). Still, a higher degree of dissatisfaction with your life does not seem to necessarily contribute to worse sleep quality (3).
 
 ###### How:
-
-
 
 [9] Even though the <mark>Tactic Collection – Life Satisfaction</mark> will focus more specifically on the strategies that you might want to use to, we will sum up some important factors
 here as well.
@@ -348,37 +319,24 @@ for example listening to people with vastly different life stories or by meditat
 
 ###### Sources:
 
-
-
-
-
-
 **(1) [Study links lower life satisfaction to sleep problems during midlife](https://www.sciencedaily.com/releases/2015/06/150608120231.htm)**
 
 **(2) [Depressive symptoms, life satisfaction and prevalence of sleep disturbances in the general population of Germany: results from the Heinz Nixdorf Recall study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4716226/)**
 
 **(3) [Longitudinal Study on Poor Sleep and Life Dissatisfaction in a Nationwide Cohort of Twins](https://academic.oup.com/aje/article/169/2/206/96153)**
 
-
-
 #### 1.2 Stabilize our 24-hour cycle
 
 ###### Intro:
-
-
 
 [12] All humans have a 24 hour cycle in our body that regulates a lot of our behavior and processes in our body. This cycle is also called the circadian rhythm. It makes sense that since a day lasts 24 hours, that this cycle within us also lasts approximately 24 hours (1). As humans live all across the world, where it is light at different times than on other places of the planet, it should be no surprise that there is no absolute baseline circadian rhythm (2).
 
 ###### Why:
 
-
-
 [13] Humans in general prefer a certain degree of stability in
 their lives. Our body is no exception to this. This natural tendency for our body to create a balance is also called homeostasis. Since sleep influences our body, our body therefore prefers a stable circadian rhythm as a way to improve health and overall well-being (3).
 
 ###### How:
-
-
 
 [14] In order to stabilize your biological 24-hour cycle, it is best to go to bed at around the same time every day, as often as possible. We understand that this will not be
 always possible, but you do yourself a favor by trying to make it as stable as possible. You will notice that you automatically will get sleepy around the time you go to bed, which is a clear sign that your body has adjusted to that
@@ -386,21 +344,15 @@ daily rhythm. Similarly, try to wake up around the same time every day, as often
 
 ###### Sources:
 
-
-
 **(1) [Intrinsic near-24-h pacemaker period determines limits of circadian entrainment to a weak synchronizer in humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC61161/pdf/pq2401014027.pdf)**
 
 **(2) [Human circadian pacemaker is sensitive to light throughout subjective day without evidence of transients](https://www.physiology.org/doi/pdf/10.1152/ajpregu.1997.273.5.r1800)**
 
 **(3) [Overview of Circadian Rhythms](https://pubs.niaaa.nih.gov/publications/arh25-2/85-93.htm)**
 
-
-
 #### 1.3 Sleep during night, awake during the day
 
 ###### Intro:
-
-
 
 [15] Humans are daytime creatures – with day versus
 night being characterized when it is light versus dark outside. Our circadian rhythm is therefore strongly influenced by the amount of light we receive, so that we feel awake during the day and tired when it is dark (25)(26).
@@ -410,10 +362,6 @@ night being characterized when it is light versus dark outside. Our circadian rh
 ###### How:
 
 ###### Sources:
-
-
-
-
 
 ###### Intro:
 
