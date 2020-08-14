@@ -98,21 +98,21 @@
    
    **1.2 Stabilize our 24-hour cycle**
    
-   *1.3 Sleep during night, awake during the day*
+   **1.3 Sleep during night, awake during the day**
    
-   1.4 Exercising and naturally moving around
+   **1.4 Exercising and naturally moving around**
    
-   1.5 Go outside during the day
+   **1.5 Go outside during the day**
    
-   1.6 Boost melatonin building blocks
+   *1.6 Boost melatonin building blocks*
    
-   1.7 Increase orexin
+   *1.7 Increase orexin*
    
-   1.8 Sleep-enhancing foods
+   *1.8 Sleep-enhancing foods*
    
-   1.9 Remove chronic stressors
+   *1.9 Remove chronic stressors*
    
-   1.10 Nightshifts work
+   *1.10 Nightshifts work*
 
 2. Before sleeping
    
@@ -354,8 +354,244 @@ daily rhythm. Similarly, try to wake up around the same time every day, as often
 
 ###### Intro:
 
-[15] Humans are daytime creatures – with day versus
-night being characterized when it is light versus dark outside. Our circadian rhythm is therefore strongly influenced by the amount of light we receive, so that we feel awake during the day and tired when it is dark (25)(26).
+[15] Humans are daytime creatures – with day versus night being characterized when it is light versus dark outside. Our circadian rhythm is therefore strongly influenced by the amount of light we receive, so that we feel awake during the day and tired when it is dark (1)(2).
+
+###### Why:
+
+
+
+[16] Once our body notices that it is getting dark outside, it triggers a part of the brain called the pineal gland, to start producing the sleep hormone called melatonin (3)(4)(5). When our body then notices that it is getting light outside, we tend to wake up (2). This phase of waking up is facilitated by the production of cortisol (6). Working together with this natural circadian cycle and the sleep and waking hormones that come with
+it obviously improves your sleep quality.
+
+###### How:
+
+[17] This strategy is self-explanatory by the rule itself.
+
+###### Sources:
+
+
+
+**(1) [Phase-shifting human circadian rhythms: influence of sleep timing, social contact and light exposure](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1160744/pdf/jphysiol00392-0283.pdf)**
+
+**(2) [Intrinsic period and light intensity determine the phase relationship between melatonin and sleep in humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2714089/)**
+
+**(3) [Melatonin, the Hormone of Darkness: From Sleep Promotion to Ebola Treatment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4334454/)**
+
+**(4) [Melatonin and sleep in aging population](https://www.ncbi.nlm.nih.gov/pubmed/16183237)**
+
+**(5) [The Pineal Gland and Melatonin](http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pineal.html)**
+
+**(6) [The cortisol awakening response - normal values and confounds](http://www.noiseandhealth.org/article.asp?issn=1463-1741;year=2000;volume=2;issue=7;spage=79;epage=88;aulast=Wust)**
+
+
+
+#### 1.4 Exercise and naturally moving around
+
+###### Intro:
+
+
+
+[18] Especially before the Neolithic Revolution, when humans were hunters and gatherers, all of us were naturally outside for a large part of the day and moving around a lot. Therefore it is likely that we were made to move around much more than a lot of us do right now. This Tactic Collection will not go too deeply in the area of naturally moving around and exercise, as this will be covered in the Tactic Collection –Movement. It should be noted that when you do not participate in the current ‘normal’ sedentary lifestyle, as well as the often seen lack of exercise, your overall health improves as well as having a lower chance of getting chronic diseases (1).
+
+###### Why:
+
+
+
+[19] Exercise improves the quality of sleep as well the duration of sleep (2). The relationship also works the other way around, as an improved sleep quality improves your exercise performance (3). This implies that we can help ourselves in a positive upward spiral which will benefit not only our exercise routine and sleep quality, but also all the direct and indirect positive effects that each of these two important fields of
+our lives provide us with. This is why exercise and sleep are considered to be keystone habits, as the benefits lead to other areas of our lives being improved as a  consequence. Also the willingness to improve other areas of our lives is higher as a consequence.
+
+[20] One specific consequence of the improved sleep quality that 150 minutes of normal to intense exercise per week provides us with, is that people report to feel much less sleepy during the day (4).
+
+###### How:
+
+
+
+[21] The Tactic Collection - Movement will cover strategies on how to get yourself moving more. The most important aspect to note is that you should look for any sports or active activity that you truly enjoy, as this is obviously much more fun as well as improves the chance of keep on exercising sports.
+
+[22] With respect to naturally moving around, if you sit a lot behind a computer, try to
+make sure that you have it in a default position where you stand up when you are working it (adding music that you enjoy helps, as it will make you move around and make the standing less straining, especially when you are not used to it yet).
+
+###### Sources:
+
+
+
+**(1) [Physical Inactivity, Sedentary Behavior and Chronic Diseases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5451443/)**
+
+**(2) [Interrelationship between Sleep and Exercise: A Systematic Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5385214/)**
+
+**(3) [The bidirectional relationship between exercise and sleep: Implications for exercise adherence and sleep improvement](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4341978/)**
+
+**(4) [Association between objectively-measured physical activity and sleep](https://www.sciencedirect.com/science/article/abs/pii/S1755296611000317)**
+
+#### 1.5 Go outside during the day
+
+###### Intro:
+
+
+
+[23] Humans are currently classified in the tree of life as the Homo sapiens. As we have been evolving over tens of thousands of years, we were always surrounded by nature
+for the majority of time. It then makes sense that our bodies are adapted to and fit well in natural environments. Due to the urbanization and the artificial nature of many aspects of our current lives, many of us spend much less time outdoors and within nature than what is optimal for us to do so.
+
+###### Why:
+
+
+
+[24] The start of melatonin production in the evening happens earlier if you expose yourself to the sun or very bright artificial light earlier in the day (1). The earlier this production starts in the evening, the easier it is to fall asleep (1). Since the light we experience from a sunny summer day can be a thousand times as bright as what we generally experience indoors, going outside from time to time is very important for our melatonin level and the circadian rhythm in general (1)(2). The production of serotonin – which is converted in melatonin when it gets dark (see tactic 1.3) – is increased as well (2). Serotonin has a wide variety of other advantages such as improved mood, social
+interactions and decreasing the chance of physical and mental health complications to name a few (2).
+
+###### How:
+
+
+
+[25] Since the benefit with respect to sleep of being outside is greatest in the morning, we will mainly focus on implementing going outside in the morning. Therefore it is
+advised to reframe a few routine morning activities by doing them outside, especially if you are indoors for the majority of the day. If you do not have a morning routine, we can highly recommend implementing one. For additional information on implementing a morning routine, please check the Tactic Collection – Habits. Activities that can be done outside in the morning include exercising, having breakfast, meditation and journaling.
+
+
+
+[26] Another advice is that if you do not go outside so often, do not wear sunglasses to capture more of the positive effects of natural daylight (1). There are also ´bright light lamps´ (see tactic 4.5) you can buy which are specifically designed to improve the light exposure which you can use indoors (2).
+
+###### Sources:
+
+
+
+**(1) [Benefits of Sunlight: A Bright Spot for Human Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2290997/)**
+
+**(2) [How to increase serotonin in the human brain without drugs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2077351/)**
+
+#### 1.6 Boost melatonin building blocks
+
+###### Intro:
+
+
+
+[27] All humans need to sleep and rest in order to function properly on a regular basis. In order to facilitate the process of knowing when to sleep and be awake, the body produces a hormone called melatonin that helps our body know when it is dark, and nudges us to become sleepy and fall asleep (see tactic 1.5).
+
+[28] Important note: looking at this hormone in particular is a severe form of reductionism – likely much more so than many of the other tactics–. This is because it does not consider the interaction of the body and all its processes with this particular
+hormone. Still, in order to provide a general direction for potential improvement, it is included in the overview. This is partially why we strongly advise to not add readily-made supplements of melatonin to your diet, as you would externalize it, leading to a lower inner production of the hormone and then perhaps becoming dependent on the supplement.
+
+###### Why:
+
+
+
+[29] As mentioned in tactic 1.3, melatonin production is an important factor in regulating our circadian rhythm and signaling to our body when it is dark, as its production starts when it gets dark. As we have seen in tactic 1.5, the earlier the onset of melatonin, the more easily you will fall asleep. When taking additional melatonin, it has been shown to lower your motor activity, make you more tired as well as decrease your body temperature, three specific traits that occur to fall asleep more easily (1). The benefits of a lower body temperature to fall asleep is discussed in tactic 3.4.4. Melatonin also makes your skin age less quickly, so you look younger for a longer time (2). It can aid in fighting autoimmune disease (3) and neurodegenerative processes (4) and can be helpful for losing weight (5).
+
+###### How:
+
+
+
+[30] Many of the tactics mentioned throughout this tactic collection have a direct or indirect effect that promote the production of melatonin, like tactic 1.3 – sleeping during the night, tactic 1.5 – going outside during the day, and tactic 2.1 – applying blue light filters to your electronics. Also, since the neurotransmitter and hormone serotonin is converted in melatonin when your environment becomes dark (see tactic 1.3), we will focus on the building blocks of serotonin production (and therefore melatonin). This will then increase the signaling potency of the hormone in your body, as you will increase the amount of hormones that can be produced inside your body.
+
+*[31] It is possible to increase your serotonin by exposing yourself to bright light (see tactic 1.5). Another strategy to raise the amount of serotonin is to exercise (6), as it amongst others increases the amount of tryptophan in your system - which is a building block of serotonin (42)(43)(44). A more subjective form of implementation is your capacity to regulate your own mood (45).*
+
+*[32] There are also a variety of foods that increase the amount of melatonin in your body (42). The animal foods that include a higher amount of melatonin are fish and eggs. The plant foods that contain a higher proportion of melatonin include nuts, seeds, sprouting vegetables, tart Montmorency cherries, certain mushrooms and cereals (46)(47)(#)(##). The Tactic Collection – Nourishment contains some baseline overviews of which foods to include in your diet, as well as the foods that boost your melatonin as well.*
+
+###### Sources:
+
+
+
+**(1) [The Pineal Gland and Melatonin](http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pineal.html)**
+
+**(2) [Melatonin and human skin aging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3583885/)**
+
+**(3) [Melatonin enhances interleukin-10 expression and suppresses chemotaxis to inhibit inflammation in situ and reduce the severity of experimental autoimmune encephalomyelitis](https://pubmed.ncbi.nlm.nih.gov/26735612/)**
+
+**(4) [Melatonin antioxidative defense: therapeutical implications for aging and neurodegenerative processes](https://www.ncbi.nlm.nih.gov/pubmed/22739839)**
+
+**(5) [Melatonin reduces hepatic mitochondrial dysfunction in diabetic obese rats](https://pubmed.ncbi.nlm.nih.gov/25904243/)**
+
+**(6) [How to increase serotonin in the human brain without drugs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2077351/)**
+
+
+
+**
+
+*(4) [Influence of Tryptophan and Serotonin on Mood and Cognition with a Possible Role of the Gut-Brain Axis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4728667/)*
+
+*(5) [Site-dependent effects of an acute intensive exercise on extracellular 5-HT and 5-HIAA levels in rat brain](https://www.ncbi.nlm.nih.gov/pubmed/11248443)*
+
+*(6) [Motor activity increases tryptophan, 5-hydroxyindoleacetic acid, and homovanillic acid in ventricular cerebrospinal fluid of the conscious rat](https://www.ncbi.nlm.nih.gov/pubmed/2419509)*
+
+*(7) [In vivo measurements of brain trapping of 11C-labelled α-methyl-L-tryptophan during acute changes in mood states](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2077345/)*
+
+*(8) [Dietary Sources and Bioactivities of Melatonin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5409706/)*
+
+*(9) [Effects of Diet on Sleep Quality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5015038/)*
+
+*(10) [Effect of tart cherry juice (Prunus cerasus) on melatonin levels and enhanced sleep quality](https://www.ncbi.nlm.nih.gov/pubmed/22038497)*
+
+*(11) [Diet promotes sleep duration and quality](https://www.ncbi.nlm.nih.gov/pubmed/22652369)*
+
+#### 1.7 Increase orexin*
+
+###### Intro:
+
+###### Why:
+
+###### How:
+
+###### Sources:
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3589707/
+
+https://www.ncbi.nlm.nih.gov/pubmed/22844792
+
+https://www.superfoodly.com/hypocretin-supplements-how-to-increase-orexin-naturally/
+
+https://www.selfhacked.com/blog/how-to-increase-orexin-and-decrease-fatigue-naturally/
+
+#### 1.8 Sleep-enhancing foods
+
+###### Intro:
+
+###### Why:
+
+###### How:
+
+###### Sources:
+
+
+
+High carb & protein meals good for bed: https://www.ncbi.nlm.nih.gov/pubmed/21816963
+
+High carbohydrate & fat diets: [Dietary Macronutrients and Sleep - PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27170039)
+
+https://www.ncbi.nlm.nih.gov/pubmed/22652369
+
+#### 1.9 Remove chronic stressors
+
+###### Intro:
+
+###### Why:
+
+###### How:
+
+###### Sources:
+
+#### 1.10 Nightshifts work
+
+###### Intro:
+
+
+
+If it is absolutely necessary for you to work during the night, apply the
+knowledge about light and its effect on your circadian rhythm by exposing
+yourself to bright light during your night shift and to complete darkness
+during the day. This shift will also improve both alertness and cognitive
+performance during your night shift (10).
+
+###### Why:
+
+###### How:
+
+###### Sources:
+
+
+
+(1) https://www.nejm.org/doi/pdf/10.1056/NEJM199005033221801
+
+###### Intro:
 
 ###### Why:
 
