@@ -1,6 +1,6 @@
-# Tactic Collection - Focus & Flow
+# Tactic Collection - Citizenship
 
-## Mindmap of Focus & Flow
+## Mindmap of Citizenship
 
 ![alt text]()
 

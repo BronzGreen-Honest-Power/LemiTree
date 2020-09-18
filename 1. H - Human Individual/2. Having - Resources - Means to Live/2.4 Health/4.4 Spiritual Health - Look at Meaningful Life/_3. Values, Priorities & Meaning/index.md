@@ -1,6 +1,6 @@
-# Tactic Collection - Focus & Flow
+# Tactic Collection - Values, Priorities & Meaning
 
-## Mindmap of Focus & Flow
+## Mindmap of Values, Priorities & Meaning
 
 ![alt text]()
 

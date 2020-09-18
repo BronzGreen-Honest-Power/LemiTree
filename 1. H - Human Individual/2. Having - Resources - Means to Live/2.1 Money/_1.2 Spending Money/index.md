@@ -1,6 +1,6 @@
-# Tactic Collection - Focus & Flow
+# Tactic Collection - Spending Money
 
-## Mindmap of Focus & Flow
+## Mindmap of Spending Money
 
 ![alt text]()
 
