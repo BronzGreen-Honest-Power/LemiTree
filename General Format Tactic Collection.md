@@ -1,7 +1,7 @@
 ---
 layout: page
 title: General Format
-permalink: /general/
+permalink: /general.html
 ---
 
 # General rules Tactic Collections:
