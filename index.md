@@ -1,5 +1,6 @@
 ---
-layout:page
+layout: page
+title: home
 ---
 
 This is a testwebsite
