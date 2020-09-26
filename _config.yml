@@ -1,7 +1,4 @@
 theme: jekyll-theme-minimal
 
-title: myCustomTitle
-description: myCustomAndDetailedDescription
-
 github:
   is_project_page: false
