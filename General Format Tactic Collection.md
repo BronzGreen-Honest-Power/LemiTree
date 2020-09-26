@@ -1,3 +1,8 @@
+---
+layout: page
+title: General Format
+---
+
 # General rules Tactic Collections:
 
 Look at the bottom to copy-paste the general format
