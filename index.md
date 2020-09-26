@@ -1,4 +1,4 @@
 This is a testwebsite
 
 
-Link to [page](general.html)
+Link to [page](pages/test.html)
