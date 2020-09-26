@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-
+title: null
+name: something
 github:
   is_project_page: false
