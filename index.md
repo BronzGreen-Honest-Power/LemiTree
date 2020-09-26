@@ -1,5 +1,4 @@
 ---
-layout: page
 title: home
 theme: jekyll-theme-minimal
 ---
