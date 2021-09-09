@@ -23,6 +23,8 @@ ___
 
 ___
 
+[//]: <> (start script*@*)
+
 </details>
 
 
@@ -39,7 +41,6 @@ ___
 - Frequency:
 - Money required:
 - Time required:
-
 
 ###### How:
 ###### Sources: </summary>
@@ -76,3 +77,5 @@ ___
 ...
 
 </details>
+
+[//]: <> (end script*@*)
