@@ -1,1 +1,10 @@
-
+- Albert to-do's
+    - [x]  Integrate To-do's in MVP
+        - [x]  Make a Git page on the MVP
+        - [x] Create proper MVP branch overview
+    - [ ]  Learn using Github
+        - [x]  How to create new branch
+        - [x]  Add branch for top read me file
+        - [ ] How to review commits of others
+        - [ ] Where to find descriptions of new commits
+    - [ ] Write the general disclaimer draft
