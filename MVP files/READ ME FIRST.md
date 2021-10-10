@@ -16,6 +16,7 @@
 
 ## - How to use this information hub?
 
+  Some of were born lucky, some of us weren't. Still, what holds for all of us is that we have to work to make it work for us. So use it, do it, act. Experience to see what works for you. Step 1 = information, step 2 = experiment and grow, step 3 = share.
 
 ---
 

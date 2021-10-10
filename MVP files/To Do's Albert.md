@@ -7,4 +7,15 @@
         - [x]  Add branch for top read me file
         - [ ] How to review commits of others
         - [ ] Where to find descriptions of new commits
-    - [ ] Write the general disclaimer draft
+    - [x] Write the READ ME FIRST
+    - [ ] Write an extended READ ME
+    - [ ]  Have 3 subjects worked out to a fair degree
+        - [ ]  Sleep
+        - [ ]  Identity
+        - [ ]  Goals
+        - [ ]  Environmental tactics
+    - [ ]  Overview of the subjects we are working on (!! Feedback & suggestions are always most welcome!! please click here)
+    - [ ] test marktext & abricotine
+    - [ ] find materials for the newbie guide on how to use github
+
+    - [ ] 6 principles jeanette hommes

@@ -8,13 +8,9 @@
 
 ## **To-do's:**
 
-- [ ]  Find a user friendly markdown editor => Atom?
+- [ ]  Find a user friendly markdown editor => Atom; ... ; Marktext
 - [ ]  Quality of science integrated; metrics document (scientific) sourcing
-- [ ]  Have 3 subjects worked out to a fair degree
-    - [ ]  Sleep
-    - [ ]  Identity
-    - [ ]  Goals
-    - [ ]  Environmental tactics
-- [ ]  Overview of the subjects we are working on (!! Feedback & suggestions are always most welcome!! please click here)
+- [ ] License!!
+
 
 ---
