@@ -20,7 +20,7 @@
         - [//]: <> (start script*@*)
         - [//]: <> (end script*@*)
 
-        → Remove all <details><summary> </summary></details> (Serge)
+        → Remove all   (Serge)
 
     - [x]  Read me file of the specific software/programming used/applied within this repos (Serge)
 
