@@ -15,7 +15,7 @@ ___
 [describe tactic collection]
 ### Why is this strategy collection important for us?
 [describe why]
-###### <details><summary> Sources: </summary>
+######  Sources: 
 
 **(1) [Title of the paper]()**
 
@@ -23,11 +23,11 @@ ___
 
 ___
 
-</details>
+
 
 
 ## 1. General Tactics
-#### <details><summary> 1.1 [name general tips - tactic 1] </summary>
+####  1.1 [name general tips - tactic 1] 
 
 #### Infographic: **[Link to the infographic]()**
 #### Video: **[Link to the video]()**
@@ -42,7 +42,7 @@ ___
 
 
 ###### How:
-###### Sources: </summary>
+###### Sources: 
 
   **(1) [Title of the paper]()**
 
@@ -50,9 +50,9 @@ ___
 
   ...
 
-</details>
 
-#### <details><summary> 1.2 [name general tips - tactic 2] </summary>
+
+####  1.2 [name general tips - tactic 2] 
 
 #### Infographic: **[Link to the infographic]()**
 #### Video: **[Link to the video]()**
@@ -75,4 +75,4 @@ ___
 
 ...
 
-</details>
+
