@@ -22,7 +22,7 @@ Git is a simple but powerful version control system. While it might be a little 
 
 [todo: cloning pulling branching staging committing pushing]
 
-Github is a free online platform hosting Git repositories, and thus allowing to use Git’s capabilities not just locally, but also online, remotely. Additionally, it allows for the community to open “issues”, for example suggesting changes to some existing articles, or requesting some new areas to be covered. Similarly, using so called “pull requests”, contributors may request that their changes be included in the main version of the repository, as well as review and comment on other people’s contributions. Github also integrates well with many development tools that may help us in the future automate a lot of dull administrative work.
+Github is a free online platform hosting Git repositories, and thus allowing to use Git’s capabilities not just locally, but also online, remotely. Additionally, it allows for the community to open “issues”, for example suggesting changes to some existing articles, or requesting some new areas to be covered. Similarly, using so called “pull requests”, contributors may request that their changes be included in the main version of the repository, as well as review and comment on other people’s contributions. Github also integrates well with many development tools that may help us automate a lot of dull administrative work in the future.
 
 [todo: prs comments issues ]
 
@@ -65,16 +65,14 @@ Specific actions that the reader shall take to achieve those benefits.
 A bibliography of any sources that have been used while compiling this ***tactic***. Both print (book titles) and digital (links). [todo: decide format of the sources]
 
 ###"###" - Heading 3 - The whys and hows
-If a ***tactic***'s how-to has several points to it, for example you need to perform different routines in the morning and in the evening, you can use this heading to distinguish them within the same file. 
+If a ***tactic***'s "How" section has several points to it, for example you need to perform different routines in the morning and in the evening, you can use this heading to distinguish them within the same file. 
 
-Similarly, if there are multiple benefits, in the "Why" section, you can list them using this heading.
+Similarly, in the "Why" section, if there are multiple benefits, you can list them using this heading.
 
 As explained above, if a ***tactic*** is complex, i.e. it can be broken down further, it should be elevated to a separate ***strategy***.
 
 ###"[//]: <> (BO-how)" - Comments - Scripting tools
-As explained earlier, we might want to use various automation tools to reduce manual work. To make that easier, we may use Markdown's comment functionality to leave some "bookmarks" for locating various data points of interest. You don't need to worry about it, however if you see such comments, you should not (re)move them. If you create a new tactic from scratch, you should include the following comments for each of the sections:
-
-[todo: tbd]
+As explained earlier, we might want to use various automation tools to reduce manual work. To make that easier, we may use Markdown's comment functionality to leave some "bookmarks" for locating various data points of interest. You don't need to worry about it too much, however if you see such comments, you should **not** (re)move them. Comments are **not** visible in the file preview. If you create a new tactic from scratch, you should use the template [todo link], which already has comments for each section.
 
 ###Others
 You're free to use any other features of Markdown as you see fit.
@@ -83,13 +81,17 @@ You're free to use any other features of Markdown as you see fit.
 
 While we wish for all ***tactics*** to be useful, they aren't necessarily equal - they vary in the quality of their benefits, as well as the kind and size of their costs. To make better decisions on prioritisation of those different ***tactics***, we have designed a system of classification that will allow for easy searching or sorting of the ***tactics***. 
 
-We have also designed a special coding system for those classes, to make it easy for automation. These codes shall be in a comment at the top of each ***tactic*** file, before the title. Codes shall be separated by a comma, without spaces. For example: "[//]: <> (FD2,EPA,TH2M30)". The order of the codes doesn't matter.
+We have also designed a special coding system for those classes, to make it easy for automation. These codes shall be in a comment at the top of each ***tactic*** file, before the title. Codes shall be separated by a comma, without spaces. For example: 
+
+>[//]: <> (FD2,EPA,TH2M30)
+
+(The order of the codes doesn't matter but the order of symbols in each of the codes *does*.)
 
 Keep in mind these classes are just estimations and not necessarily absolutes. Different kinds of exercises may affect different people differently, and products may change their price over time. Try to be accurate, but allow for some wiggle room.
 
 ###Frequency
 - F - frequency
-Describes how often should an action be performed to achieve the benefits.
+Describes how often an action should be performed to achieve the benefits.
 ####Intervals:
 - D - days
 - W - weeks
@@ -123,7 +125,7 @@ Describes material, financial expenses.
 
 ###Energy
 - E - energy
-- Describes cost in terms of effort.
+Describes cost in terms of effort.
 ####Type:
 - P - physical
 - M - mental
