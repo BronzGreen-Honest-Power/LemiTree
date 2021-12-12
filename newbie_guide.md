@@ -21,7 +21,7 @@ Git is a simple but powerful version control system. While it might be a little 
 
 Github is a free online platform hosting Git repositories, and thus allowing to use Git’s capabilities not just locally, but also online, remotely. Additionally, it allows for the community to open “issues”, for example suggesting changes to some existing articles, or requesting some new areas to be covered. Similarly, using so called “pull requests”, contributors may request that their changes be included in the main version of the repository, as well as review and comment on other people’s contributions. Github also integrates well with many development tools that may help us automate a lot of dull administrative work in the future.
 
-[todo: prs comments issues ]
+**[Github tutorial](https://www.edureka.co/blog/how-to-use-github/)**
 
 ##Project structure
 In order to maintain consistency across the project, we follow some strict, but simple conventions. Simply put, all ***strategies*** are broken down to smaller, plannable and actionable pieces. What we get as a result is a common hierarchical or tree-like structure.
@@ -43,7 +43,7 @@ To maintain consistency across the project, we had to decide on one specific for
 
 Sticking to certain conventions will allow us also to automate tasks such as proof reading, numbering, graph generation, and to create any other future software that will make everything easier. This will be especially important as the project grows.
 
-Here we will only explain how we use Markdown elements in this project. If you're not familiar with Markdown, we suggest the following tutorial: [todo: link to tutorial, suggested software]
+Here we will only explain how we use Markdown elements in this project. If you're not familiar with Markdown, we suggest [this tutorial](https://www.markdowntutorial.com/).
 
 ###"#" - Heading 1 - Name of the tactic
 This shall be the title of the document, i.e. the name of a specific ***tactic***.
