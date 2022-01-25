@@ -2,14 +2,14 @@
 
 ## **In progress**
 
-- [ ]  General disclaimer on top read-me file (Rada & Albert)
+- [ ]  General disclaimer on top read-me file (Albert)
 - [ ]  Newbie guide → Instructions on how to add content: (Serge & Albert)
 
 
 ## **To-do's:**
 
-- [ ]  Find a user friendly markdown editor => Atom; ... ; Marktext
-- [ ]  Quality of science integrated; metrics document (scientific) sourcing
+- [x]  Find a user friendly markdown editor => Atom; ... ; Marktext
+- [x]  Quality of science integrated; metrics document (scientific) sourcing
 - [ ] License!!
 
 

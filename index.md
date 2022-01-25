@@ -1,39 +1,30 @@
-#Welcome to Honest Power!
+#Welcome to LemiTree!
 
-Here you can dive deep in many tactics to improve different essential domains of life.
-You can read the readme for a bit more information on what, why and how of the database.
+Our essential intent is to support 1 million global citizens self-develop and flourish by 2025.
+For this purpose, we have created LemiTree.
 
-Link to [ReadMe](README.md)
+At LemiTree, you can dive deep in many tactics to improve essential domains of life.
+Please use them to make your life as amazing as possible.
+It will be the greatest gift you give to you yourself, to your loved ones and to society at large.
+You can read the ‘link to Introduction LemiTree’ for more information on the what, why and how of our database.
 
-For a general overview of the folder structure, see the following mindmaps below:
+This database is greatly depending on your support for the creation and spread of content.
+It is therefore built by and for all of us.
+Your support is especially important when you have experience in self-development.
+You can read the ‘link to Newbie Guide’ for a few ways you can help our database and mission forward.
 
-![General%20Subdivision%20Human%20Individual]()
+If you want, just curiously browse through our tree of knowledge.
+Feel free to get started anywhere or share anything interesting with your friends and family.
+If you would like some guidance for using our database, you can read the ‘link to Recommended Pathway into Lemitree'.
 
-![General%20Subdivision%20Human%20Individual%20-%20Money]()
+The following overview shows the main branches of our Less Effort & More Impact Tree:
+~Image main branches~
 
-![General%20Subdivision%20Human%20Individual%20-%20Health]()
+Last, there are some important ‘link to Paradigms, Mindset & Disclaimers’ that are at the foundation for successfully exploiting LemiTree.
+Many of these you might already know.
+They make for some interesting discussion with your peers.
+They also act as an important disclaimer before you get started with the database.
 
-Before you delve into the self-development material, it might be useful to first get an insight in the concept of holarchies:
-
-Link to [0.Holarchies](0.%20Holarchies)
-
-Now then, pick any domain that you would like to know more about/improve upon and enjoy!
-
-Link to [1. H - Human Individual](1.%20H%20-%20Human%20Individual)
-
-Will be developed later:
-
-Link to [100. Future Domains](100.%20Future%20Domains)
-
-Archive: 
-
-Link to [999 Archive](999%20Archive)
-
-If you would like to help develop our database, please send me a message, you are most welcome!
-
-Link to [page](General%20Format%20Tactic%20Collection.md)
-
-
-Link to [page](General%20Format%20Tactic%20Collection.md)
-Link to [page](General%20Format%20Tactic%20Collection.md)
-Link to [page](General%20Format%20Tactic%20Collection.md)
+For now, simply experiment, learn and grow from what you find interesting.
+Share what works for you and what doesn’t.
+Most of all enjoy the progress and your one, unique life.
