@@ -1,70 +1,56 @@
 [//]: <> (U)
-#Tactic Title
 
-##Intro
-[//]: <> (BO-intro)
-###Text
-[//]: <> (BO-text)
-Introduction to the tactic.
+# **Tactic Title**
 
-[//]: <> (EO-text)
-###Infographic
+## **Infographic**
 [//]: <> (BO-infographic)
 * Link to image or formatted image.
 
 [//]: <> (EO-infographic)
-###Audio
-[//]: <> (BO-audio)
-* Link to audio.
-
-[//]: <> (EO-audio)
-###Video
+## **Video**
 [//]: <> (BO-video)
 * Link to video.
 
 [//]: <> (EO-video)
+## **Audio**
+[//]: <> (BO-audio)
+* Link to audio.
+
+[//]: <> (EO-audio)
+
+## **Intro**
+[//]: <> (BO-intro)
+Introduction to the tactic.
+
 [//]: <> (EO-intro)
-##Why
+## **Why**
 [//]: <> (BO-why)
-###Benefit 1
+
+### *Benefit 1*
 Description of benefit 1.
-###Benefit 2
+
+### *Benefit 2*
 Description of benefit 2.
-###Benefit 3
+
+### *Benefit 3*
 Description of benefit 3.
 
 [//]: <> (EO-why)
-##How
+## **How**
 [//]: <> (BO-how)
-###Instruction 1
-Description of instruction 1.
-###Instruction 2
-Description of instruction 2.
+Description of how in bullet points for 1 or more descriptions. Maximum 7 steps/descriptions, otherwise tactic becomes a new domain, see: [Contributor Guide](contributor_guide.md).
 
+### *Instruction 1*
+* Step 1
+* Step 2
+* ...
+
+### *Instruction 2*
+* Step 1
+* Step 2
+* ...
 [//]: <> (EO-how)
-##Sources
+
+## **Sources**
 [//]: <> (BO-sources)
-###Scientific sources
-[//]: <> (BO-scientific)
-* Source 1
-* Source 2
-
 [//]: <> (EO-scientific)
-###Non-scientific sources
-[//]: <> (BO-non-scientific)
-* Source 1
-* Source 2
-
-[//]: <> (EO-non-scientific)
-###Expert opinion
-[//]: <> (BO-expert)
-* Source 1
-* Source 2
-
-[//]: <> (EO-expert)
-###Other evidence
-[//]: <> (BO-other)
-* Description of other evidence.
-
-[//]: <> (EO-other)
-[//]: <> (EO-sources)
