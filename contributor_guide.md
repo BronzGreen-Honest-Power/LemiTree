@@ -1,38 +1,53 @@
-# Newbie Guide
+# Contributor Guide
 
 ## Intro
-The Honest Power Database is a database of self-development knowledge encompassing all different areas of life.
-[todo: intro by Albert]
+The LemiTree project is a database of self-development knowledge encompassing all different areas of life. To read more about our mission see [here](). [todo]
+
+This guide describes how you can concretely help us in our mission. By improving this toolbox, you will be contributing to the growth and flourishing of our fellow people. This way, more of us will be able to live our dreams and ambitions and live in harmony with our nature and our global ecosystem.
 
 ## How to contribute
-There are currently 3 ways you may contribute to the project:
-1. Directly submitting suggested changes or additions
-2. Reviewing existing or incoming contents, and suggesting improvements
-3. Requesting changes or new content
+There are currently 5 ways you may contribute to the project:
+1. Adding new content or submitting changes to existing (especially incomplete) content
+2. Reviewing existing or [incoming](https://github.com/BronzGreen-Honest-Power/LemiTree/pulls) contents, and suggesting improvements via comments
+3. Recommending changes or new content for our community to investigate via [issues](https://github.com/BronzGreen-Honest-Power/LemiTree/issues) and [discussions](https://github.com/BronzGreen-Honest-Power/LemiTree/discussions)
+4. Sharing LemiTree with friends/family who you think will gain value from it
+5. Donating to our cause on [todo: create Patreon page]
 
-Since this project depends on the community to add and modify the contents of the tree, we needed some efficient tools to control the quality of contributions and allow for efficient cooperation among the contributors and maintainers. The best tools we know for that purpose are Git and Github.
+Since this project depends on the community to add and modify the contents of the tree, we needed some efficient tools to control the quality of contributions and allow for efficient cooperation among the contributors and maintainers. The best tools we know for that purpose are Git and Github. Why we think so will be explained in the next section.
 
-In order to contribute directly (point 1 above), it is necessary to learn how to use Git. We realise however, that Git may be challenging, and not everyone is dedicated enough, but would still like to contribute. Those people can do so indirectly (points 2 & 3) without much effort by simply making a Github account.
+In order to contribute directly (point 1 above), it is necessary to learn how to use Git (see below). We realise however, that Git may be challenging, and not everyone is dedicated enough, but would still like to contribute to content creation. Those people can do so indirectly (points 2 & 3) without much effort by simply making a Github account.
+
+(In future updates we will simplify adding, changing and requesting new content. After those specific updates, we will make sure you do not have to understand Git in order to contribute.)
 
 ## Git & Github
-Git is a simple but powerful version control system. While it might be a little bit hard to grasp at first, it is extremely useful in itself – learning it transfers to real life benefits that this project is about. The basic features include tracking the history of file changes within a project (“repository”), creating multiple branches for storing different versions of those files, as well as comparing and merging those branches. This allows for multiple people to work on the same file(s) simultaneously without much friction, and without having to manually create and compare multiple copies of the same files.
+Git & Github are simple but powerful tools for collaboration on a project. Their effectiveness is proven by thousands of software developers using them everyday.
+
+### Why we chose Git & Github?
+The first major benefit is that they enable us to have our toolbox available online while you and others recommend new content or changes. We can therefore easily work together with possibly thousands of contributors. Anyone who is inspired by our mission/project can thus choose to improve it. We don’t have to all know each other while working on our collective objective. This makes the project highly scalable.
+
+Github also allows our moderators to review these suggestions. When accepted, these changes will immediately show on the website. This makes sure that we only release the highest quality content.
+
+### What are some basic features of Git and Github?
+Git is a version control system. Some basic features include tracking the history of file changes within projects (called "Git repositories"). It is also possible to create multiple branches of a project, so that different versions of files can be created. It is then also possible to easily compare these branches and merge them into one. This is exactly what allows multiple people to easily work on the same file(s) simultaneously, without having to manually create and compare multiple copies of the same files.
+
+Github on the other hand is a free online platform that hosts Git repositories. It therefore allows the use of Git and its features not just locally on your device, but also online. Additionally, it allows for the community to open "issues", for example suggesting changes to existing information, or requesting new subjects to be covered. Similarly, using so-called "pull requests", contributors may request that their changes be included in the main version of the repository, as well as review and comment on other people’s contributions. Github also integrates well with many development tools that may help us automate a lot of dull administrative work in the future.
+
+### How to use Git & Github?
 
 [todo: cloning pulling branching staging committing pushing]
-
-Github is a free online platform hosting Git repositories, and thus allowing to use Git’s capabilities not just locally, but also online, remotely. Additionally, it allows for the community to open “issues”, for example suggesting changes to some existing articles, or requesting some new areas to be covered. Similarly, using so called “pull requests”, contributors may request that their changes be included in the main version of the repository, as well as review and comment on other people’s contributions. Github also integrates well with many development tools that may help us automate a lot of dull administrative work in the future.
 
 **[Github tutorial](https://www.edureka.co/blog/how-to-use-github/)**
 
 ## Project structure
-In order to maintain consistency across the project, we follow some strict, but simple conventions. Simply put, all ***strategies*** are broken down to smaller, plannable and actionable pieces. What we get as a result is a common hierarchical or tree-like structure.
+In order to maintain consistency across the project, we follow some strict, but simple conventions. Simply put, all ***domains*** are broken down to smaller, plannable and actionable pieces. What we get as a result is a common hierarchical or tree-like structure.
 
-On that tree, each node may branch out into many other "child-nodes". Such a complex node we call a ***strategy*** or ***collection***. A child-node may also have its own children, thus expanding ad infinitum. In the database we achieve this hierarchy through nested directories (folders).
+On that tree, each node may branch out into many other "child-nodes". Such a complex node we call a ***subdomain*** or ***collection***. A child-node may also have its own children, thus expanding ad infinitum. In the database we achieve this hierarchy through nested directories (folders).
 
 An atomic node - one that cannot be broken down - we call a ***tactic***. ***Tactics*** are represented as text files containing written descriptions and explanations of a specific set of actions that have some specific benefits.
 
-A ***tactic*** may have several integral subcomponents that are interdependent and cannot be separated, however if a ***tactic*** can be broken down, it should become a separate ***strategy***.
+A ***tactic*** may have several integral subcomponents that are interdependent and cannot be separated, however if a ***tactic*** can be broken down, it should become a separate ***subdomain***.
 
-Additionally, at each level of the hierarchy there shall be a tree graph (automatically generated) displaying local section of the tree up to two levels of depth (i.e. the selected ***strategy*** and its child ***tactics*** and ***strategies***, as well as *their* children), so that you can always see where you are, what is around you, and what awaits you one step deeper.
+Additionally, at each level of the hierarchy there shall be a tree graph (automatically generated) displaying local section of the tree up to two levels of depth (i.e. the selected ***subdomain*** and its child ***tactics*** and ***subdomains***, as well as *their* children), so that you can always see where you are, what is around you, and what awaits you one step deeper.
 
 For an example, see [todo]
 
@@ -44,6 +59,15 @@ To maintain consistency across the project, we had to decide on one specific for
 Sticking to certain conventions will allow us also to automate tasks such as proof reading, numbering, graph generation, and to create any other future software that will make everything easier. This will be especially important as the project grows.
 
 Here we will only explain how we use Markdown elements in this project. If you're not familiar with Markdown, we suggest [this tutorial](https://www.markdowntutorial.com/).
+
+### File name
+File name should describe the ***tactic*** or ***subdomain*** as clearly and concisely as possible. 
+
+If the file name requires more than one word, separate them using underscores (it makes scripting a lot easier). Try not to exceed three words.
+
+Each ***tactic*** file has to have the ".md" extension to be properly recognised by Markdown editors in some operating systems. 
+
+Example: Contributor_Guide.md
 
 ### "#" - Heading 1 - Name of the tactic
 This shall be the title of the document, i.e. the name of a specific ***tactic***.
@@ -59,15 +83,18 @@ Specific actions that the reader shall take to achieve those benefits.
 #### Sources
 A bibliography of any sources that have been used while compiling this ***tactic***. Both print (book titles) and digital (links).
 
-### "###" - Heading 3 - Subsections
-Each of the four main sections may have subsections as described below.
+#### Infographic, Video & Audio
+Different people prefer different content formats, so you may want to include more than just text. We support infographics, audio recordings (e.g. podcasts) and videos. These should be included in the relevant sections. When creating a ***tactic***, these other format sections are not mandatory to fill out, but **do not remove them**.
 
-* Different people prefer different content formats, so in the "Intro" section you may want to include more than just text. We support infographics, audio recordings (e.g. podcasts) and videos. These should be included in the relevant sections. When creating a ***tactic***, these other format sections are not mandatory to fill out, but do not remove them.
-  All links should be included as bullet points. Since Markdown supports images, infographics can be formatted.
-* If a ***tactic***'s "How" section has several points to it, for example you need to perform different interdependent routines in the morning and in the evening, you can *optionally* use this heading to distinguish them within the same file.
-  Note: As explained above, if a ***tactic*** is complex, i.e. it can be broken down further into separate *independent* elements, it should be elevated to a separate ***strategy***.
+All links should be included as **bullet points**. Since Markdown supports images, infographics can be formatted.
+
+### "###" - Heading 3 - Subsections
+Each of the three main sections may have subsections as described below.
+
+* If a ***tactic***'s "How" section has several points to it, for example you need to perform different interdependent routines in the morning and in the evening, you can *optionally* use this heading to distinguish them within the same file. When describing these different instructions, we recommend to use **bullet points** for individual steps.
+  Note: As explained above, if a ***tactic*** is complex, i.e. it can be broken down further into separate *independent* elements, it should be elevated to a separate ***subdomain***.
 * Similarly, in the "Why" section, if there are multiple benefits, you can *optionally* list them using this heading.
-* We divide sources into several types (see below - *Project conventions: Tactic sources*). Each type has its own section, and each individual source should be a bullet point under the relevant section. Similarly to different intro formats, not all of these sections are mandatory (nor are they always possible) to fill out, however do not remove them.
+* We divide sources into several types (see below - *Project conventions: Tactic sources*). Each type has its own section, and each individual source should be a bullet point under the relevant section. Similarly to different intro formats, not all of these sections are mandatory (nor are they always possible) to fill out, however do not remove them. [todo]
 
 ### "\[//\]: <> (BO-how)" - Comments - Scripting tools
 As explained earlier, we might want to use various automation tools to reduce manual work. To make that easier, we may use Markdown's comment functionality to leave some "bookmarks" for locating various data points of interest. You don't need to worry about it too much, however if you see such comments, you should **not** (re)move them. Comments are **not** visible in the file preview. If you create a new tactic from scratch, you should use [the template](tactic_template.md), which already has comments for each section.
@@ -81,7 +108,7 @@ You're free to use any other features of Markdown as you see fit.
 
 ### Tactic sources
 #### Source types
-We trust the scientific method to provide the most accurate representation of reality. We realise, however, that it is somewhat limited. Many things in life are yet to be studied, many others can't be described with science altogether, and yet, to dismiss them would be foolish (e.g. financial ***strategies***).
+We trust the scientific method to provide the most accurate representation of reality. We realise, however, that it is somewhat limited. Many things in life are yet to be studied, many others can't be described with science altogether, and yet, to dismiss them would be foolish (e.g. financial ***tactics***).
 
 It is not up to us to decide other people's values. We have therefore decided that instead of restricting sources to purely scientific, we'd rather just ensure a clear distinction, and simply let the users decide what is convincing enough for them. Sources are therefore divided into several types:
 
@@ -164,4 +191,4 @@ Describes cost in terms of effort.
 - EPLMH (low physical, high mental effort)
 
 #### Undefined
-"U" stands for Undefined. This is a default class, before it has been classified. This code cannot exist with other codes.
+"U" stands for Undefined. This is a default class, before it has been classified. This code cannot be present with other codes.
