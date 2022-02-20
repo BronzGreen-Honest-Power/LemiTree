@@ -1,5 +1,36 @@
 # Contributor Guide
 
+## Table of Contents
+1. Intro
+2. How to contribute
+3. Git & Github
+	* Why we chose Git & Github?
+	* What are some basic features of Git and Github?
+	* How to use Git & Github?
+4. Project structure
+5. Markdown conventions
+	* File name
+	* "#" - Heading 1 - Name of the tactic
+	* "##" - Heading 2 - Main sections
+		* Intro
+		* Why
+		* How
+		* Sources
+		* Infographic, Video & Audio
+	* "###" - Heading 3 - Subsections
+	* "\[//\]: <> (BO-how)" - Comments - Scripting tools
+	* Others
+6. Project conventions
+	* Tactic sources
+		* Source types
+		* Source format
+	* Tactic classification
+		* Frequency
+		* Time
+		* Expenses
+		* Energy
+		* Undefined
+
 ## Intro
 The LemiTree project is a database of self-development knowledge encompassing all different areas of life. To read more about our mission see [here](). [todo]
 
