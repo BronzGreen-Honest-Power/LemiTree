@@ -168,7 +168,7 @@ We will accept various source formats: books (and e-books), articles (including 
 For consistency, we shall stick to a specific format of sources. We have chosen the bibliographical style of the *[Chicago Manual of Style](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html)*.
 
 ### Tactic classification
-While we wish for all ***tactics*** to be useful, they aren't necessarily equal - they vary in the quality of their benefits, as well as the kind and size of their costs. To make better decisions on prioritisation of those different ***tactics***, we have designed a system of classification that will allow for easy searching or sorting of the ***tactics***.
+While we wish for all ***tactics*** to be useful, they aren't necessarily equal - they vary in the quality of their benefits, as well as the kind and size of their costs. Their use might even change through time for you individually. To make better decisions on prioritisation of those different ***tactics***, we have designed a system of classification that will allow for easy searching or sorting of the ***tactics***.
 
 We have also designed a special coding system for those classes, to make it easy for automation. These codes shall be in a comment at the top of each ***tactic*** file, before the title. Codes shall be separated by a comma, without spaces. For example:
 >[//]: <> (FD2,EPA,TH2M30)
