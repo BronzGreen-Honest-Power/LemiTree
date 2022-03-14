@@ -133,7 +133,7 @@ Each of the three main sections may have subsections as described below.
 * We divide sources into several types (see below - *Project conventions: Tactic sources*). Each type has its own section, and each individual source should be a bullet point under the relevant section. Similarly to different intro formats, not all of these sections are mandatory (nor are they always possible) to fill out, however do not remove them. [todo]
 
 ### "\[//\]: <> (BO-how)" - Comments - Scripting tools
-As explained earlier, we might want to use various automation tools to reduce manual work. To make that easier, we may use Markdown's comment functionality to leave some "bookmarks" for locating various data points of interest. You don't need to worry about it too much, however if you see such comments, you should **not** (re)move them. Comments are **not** visible in the file preview. If you create a new tactic from scratch, you should use [the template](tactic_template.md), which already has comments for each section.
+As explained earlier, we might want to use various automation tools to reduce manual work. To make that easier, we may use Markdown's comment functionality to leave some "bookmarks" for locating various data points of interest. You don't need to worry about it too much, however if you see such comments, you should **not** (re)move them. Comments are **not** visible in the file preview. If you create a new tactic from scratch, you should use the [tactic template](tactic_template.md), which already has comments for each section.
 
 (You don't need to know that, but if you're curious, "BO" means "beginning of", "EO" -- "end of".)
 
