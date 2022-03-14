@@ -130,7 +130,7 @@ Each of the three main sections may have subsections as described below.
 * If a ***tactic***'s "How" section has several points to it, for example you need to perform different interdependent routines in the morning and in the evening, you can *optionally* use this heading to distinguish them within the same file. When describing these different instructions, we recommend to use **bullet points** for individual steps.
   Note: As explained above, if a ***tactic*** is complex, i.e. it can be broken down further into separate *independent* elements, it should be elevated to a separate ***subdomain***.
 * Similarly, in the "Why" section, if there are multiple benefits, you can *optionally* list them using this heading.
-* We divide sources into several types (see below - *Project conventions: Tactic sources*). Each type has its own section, and each individual source should be a bullet point under the relevant section. Similarly to different intro formats, not all of these sections are mandatory (nor are they always possible) to fill out, however do not remove them. [todo]
+* We divide sources into several types (see below - *Project conventions: Tactic sources*). Each type has its own section, and each individual source should be a bullet point under the relevant section. Similarly to different contents formats, not all of these sections are mandatory (nor are they always possible) to fill out, however do not remove them. [todo]
 
 ### "\[//\]: <> (BO-how)" - Comments - Scripting tools
 As explained earlier, we might want to use various automation tools to reduce manual work. To make that easier, we may use Markdown's comment functionality to leave some "bookmarks" for locating various data points of interest. You don't need to worry about it too much, however if you see such comments, you should **not** (re)move them. Comments are **not** visible in the file preview. If you create a new tactic from scratch, you should use the [tactic template](tactic_template.md), which already has comments for each section.
@@ -144,12 +144,12 @@ You're free to use any other features of Markdown as you see fit.
 
 ### Tactic sources
 #### Source types
-We trust the scientific method to provide the most accurate representation of reality. We realise, however, that it is somewhat limited. Many things in life are yet to be studied, many others can't be described with science altogether, and yet, to dismiss them would be foolish (e.g. financial ***tactics***).
+There are at least five methods of knowing. The scientific method combines the strengths and counters some of the weaknesses of these methods. Therefore, for specific and quantifiable domains, we trust the scientific method to provide the most accurate representation of reality. For other domains, providing scientific validation is difficult, if not impossible. To dismiss such domains and tactics would be foolish (e.g. financial ***tactics***).
 
-It is not up to us to decide other people's values. We have therefore decided that instead of restricting sources to purely scientific, we'd rather just ensure a clear distinction, and simply let the users decide what is convincing enough for them. Sources are therefore divided into several types:
+Further, it is not up to us to decide other people's values on what information they find reliable enough. We have therefore decided that instead of restricting sources to purely scientific, we'd rather just ensure a clear distinction. This way, the users can decide what is convincing enough for them. Sources are therefore divided into several types:
 
 ##### Scientific sources
-Scientific sources by definition need to apply the scientific method, however we'd also require for them to be somewhat supported by their respective scientific communities. This means, ideally, peer-reviewed articles from highly acclaimed journals. These kinds of sources are particularly relevant for areas like physical and mental health.
+Scientific sources by definition need to apply the scientific method. However, we'd also require them to be somewhat supported by their respective scientific communities. This means, ideally, peer-reviewed articles from highly acclaimed journals that are used in textbooks. This often portrays the current scientific consensus on a certain subject. These kinds of sources are particularly relevant for areas like physical and mental health.
 
 ##### Non-scientific sources
 Articles or books that aren't strictly scientific or aren't yet peer reviewed. This category might be particularly relevant for topics such as philosophy, spirituality, business or relationships.
