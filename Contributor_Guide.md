@@ -32,7 +32,7 @@
 		* Undefined
 
 ## Intro
-The LemiTree project is a database of self-development knowledge encompassing all different areas of life. To read more about our mission see [here](). [todo]
+The LemiTree project is a database of actionable self-development knowledge encompassing all essential areas of human life. To read more about our mission see [Welcome](Welcome.md).
 
 This guide describes how you can concretely help us in our mission. By improving this toolbox, you will be contributing to the growth and flourishing of our fellow people. This way, more of us will be able to live our dreams and ambitions and live in harmony with our nature and our global ecosystem.
 
