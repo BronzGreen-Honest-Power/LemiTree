@@ -82,7 +82,7 @@ Additionally, at each level of the hierarchy there shall be a tree graph (automa
 
 For an example, see [todo]
 
-DISCLAIMER: We do realise that the tree structure has its weaknesses, but overall we deem it to be useful.
+DISCLAIMER: We do realise that the tree structure has its weaknesses, but overall we deem it to be a good enough mix of realism and pragmatism.
 
 ## Markdown conventions
 To maintain consistency across the project, we had to decide on one specific format for our text files. Markdown seemed like the best candidate. Most notable reasons for that are:
