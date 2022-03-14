@@ -208,7 +208,7 @@ Describes how much time an action takes.
 - X - expenses
 Describes material, financial expenses.
 ##### Examples:
-- X100 ($100) [todo: tbd default currency]
+- X100 ($100)
 - X20W2 ($20 every two weeks)
 
 #### Energy
