@@ -76,7 +76,7 @@ On that tree, each node may branch out into many other "child-nodes". Such a com
 
 An atomic node - one that cannot be broken down - we call a ***tactic***. ***Tactics*** are represented as text files containing written descriptions and explanations of a specific set of actions that have some specific benefits.
 
-A ***tactic*** may have several integral subcomponents that are interdependent and cannot be separated, however if a ***tactic*** can be broken down, it should become a separate ***subdomain***.
+A ***tactic*** may have several integral subcomponents that are interdependent and cannot be separated. However, if a ***tactic*** can be broken down, it should become a separate ***subdomain***.
 
 Additionally, at each level of the hierarchy there shall be a tree graph (automatically generated). This graph displays the local section of the tree up to two levels of depth (i.e. the selected ***subdomain*** and its child ***tactics*** and ***subdomains***, as well as *their* children). This way, you can always see where you are, what is around you, and what awaits you one step deeper.
 
