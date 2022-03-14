@@ -85,7 +85,12 @@ For an example, see [todo]
 DISCLAIMER: We do realise that the tree structure has its weaknesses, but overall we deem it to be useful.
 
 ## Markdown conventions
-To maintain consistency across the project, we had to decide on one specific format for our text files. Markdown seemed like the best candidate. Most notable reasons for that are: It’s simple, there are plenty of editors available, and it’s not bound by any specific operating system.
+To maintain consistency across the project, we had to decide on one specific format for our text files. Markdown seemed like the best candidate. Most notable reasons for that are:
+
+- It’s simple
+- There are plenty of editors available
+- It’s not bound by any specific operating system
+
 
 Sticking to certain conventions will allow us also to automate tasks such as proof reading, numbering, graph generation, and to create any other future software that will make everything easier. This will be especially important as the project grows.
 
