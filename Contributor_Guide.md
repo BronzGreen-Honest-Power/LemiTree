@@ -158,7 +158,7 @@ Articles or books that aren't strictly scientific or aren't yet peer reviewed. T
 Some topics might not have had any studies, but useful advice from experts in a field is often available in form of books, interviews or talks. For example, in business it might be worth listening to a billionaire, in sports -- to an olympic athlete, in writing -- to a best-selling author.
 
 ##### Other evidence
-Some areas may benefit highly from anecdotal evidence. Perhaps your grandpa has been happily married for 60 years and has some great relationship insights. Or maybe you yourself have discovered some useful tricks that might be worth sharing with the world.
+Some areas may benefit highly from anecdotal evidence. Perhaps your grandpa has been happily married for 60 years and has some great relationship insights. Or maybe you yourself have discovered some useful tricks that might be worth sharing with the world. Even the most accepted theories today used to be anecdotal perspectives.
 
 Sometimes the status of a source might be disputable. This shall be decided by the consensus of the contributors. In cases where the disputes cannot reach an agreement, the final word belongs to us - the project maintainers.
 
