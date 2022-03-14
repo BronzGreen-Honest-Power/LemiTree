@@ -56,7 +56,7 @@ Git & Github are simple but powerful tools for collaboration on a project. Their
 ### Why we chose Git & Github?
 The first major benefit is that they enable us to have our toolbox available online while you and others recommend new content or changes. We can therefore easily work together with possibly thousands of contributors. Anyone who is inspired by our mission/project can thus choose to improve it. We don’t have to all know each other while working on our collective objective. This makes the project highly scalable.
 
-Github also allows our moderators to review these suggestions. When accepted, these changes will immediately show on the website. This makes sure that we only release the highest quality content.
+Github allows us to use automation systems that enforce basic project conventions. This makes it easier to review contributions. It also enables a minimum standard of quality from the getgo. Github also allows our moderators to review the suggestions of others. When accepted, these changes will immediately show on the website. This makes sure that we only release the highest quality content.
 
 ### What are some basic features of Git and Github?
 Git is a version control system. Some basic features include tracking the history of file changes within projects (called "Git repositories"). It is also possible to create multiple branches of a project, so that different versions of files can be created. It is then also possible to easily compare these branches and merge them into one. This is exactly what allows multiple people to easily work on the same file(s) simultaneously, without having to manually create and compare multiple copies of the same files.
