@@ -14,7 +14,7 @@ The collection of the best self-development tactics that humanity has to offer i
 
 - LemiTree is using a scalable architecture for content creation and spreading
 - To collect the best of our human civilization, we need your support
-- If you would like to help us help everyone, please go the ‘link to *Newbie Guide’*
+- If you would like to help us help everyone, please go to [Contributor Guide](Contributor_Guide.md)
 
 ## The benefits of this database (why)
 
