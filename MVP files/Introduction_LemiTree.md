@@ -30,15 +30,15 @@ The information structure also allows you to curiously browse through different 
 
 - Only actionable tactics that an individual can use will go through the filter
 
-    → Image endless information → filter (only within influence sphere; only for growth; only on domains that are important for all of us; minimized) →  Lemitree
+    → Image endless information → filter (only within influence sphere; only for growth; only on domains that are important for all of us; minimized) →  Lemitree [to-do]
 
 
 - We have chosen to open-source, as we believe that together we know more than any of us alone
-- Therefore we highly welcome your unique perspective and have enabled you to add
+- Therefore we highly welcome your unique perspective and have enabled you to add:
     - Tactics you have found during research
-    - Tactics that have worked for you or for others, some for thousands of years
+    - Tactics that have worked for you or for others; some for thousands of years
     - Feedback to add or improve any content on our LemiTree
-- This way, this tree of knowledge will always be updated and be a great gift for the (grand-)children of humanity that can stay relevant throughout the ages
+- This way, this tree of knowledge will remain relevant and act as a great gift for our future (grand-)children
 
 - Instead of restricting sources to purely scientific, we rather just ensure a clear distinction of the level of credibility
 - Doing so, users can decide what is convincing enough for them
