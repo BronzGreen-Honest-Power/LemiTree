@@ -40,7 +40,7 @@ Giving feels better for many people than receiving (1) [to-do] - Jordan Peterson
 [//]: <> (EO-why)
 ## **How**
 [//]: <> (BO-how)
-The basic strategy to money is to increase (especially passive) income, decrease (future) expenditures and invest the difference.
+The basic strategy to money is to increase (especially passive) income, decrease (future) expenditures and invest the difference. Before you get started with these, we recommend you to first create a [financial overview](Financial_overview.md) of your current situation.
 
 ### *[Active income](Active_income)*
 ### *[Passive income](Passive_income)*
