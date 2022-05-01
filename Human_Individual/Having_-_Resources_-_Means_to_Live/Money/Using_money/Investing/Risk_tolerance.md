@@ -20,7 +20,7 @@
 
 ## **Intro**
 [//]: <> (BO-intro)
-Introduction to the tactic.
+Depends on your age, whether you have income, children, contractual obligations for recurring payments, ...
 
 [//]: <> (EO-intro)
 ## **Why**
