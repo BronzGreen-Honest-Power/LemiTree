@@ -1,0 +1,1 @@
+Interest payments on loans of <1% is very attractive; 1-3% is acceptable; 3% or higher is not acceptable unless you have multiple sources/options that generate a higher return on investment than your borrowing rate. 

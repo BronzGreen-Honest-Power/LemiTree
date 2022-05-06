@@ -33,11 +33,14 @@ It can quickly become clear where you can save costs in your outflows. This will
 Just becoming aware of the possibility of having multiple income streams is motivating. You can now start thinking and working on new [income streams](Intro_generating_money.md).
 
 ### *Measurable progress*
-Seeing the impact of your actions is motivating (1) [to-do] - dopamine increase. Therefore you can be sure that you will improve your financial situation by investing time and energy in this domain. Due to the benefits of [money](Intro_money.md) 
+Seeing the impact of your actions is motivating (1) [to-do] - dopamine increase. Therefore you can be sure that you will improve your financial situation by investing time and energy in this domain. Due to the benefits of [money](Intro_money.md)
 
 [//]: <> (EO-why)
 ## **How**
 [//]: <> (BO-how)
+Use free Excel template or apps such as ...Figy/Prospert
+Use [budgets](Spending_budgets.md)
+
 Description of how in bullet points for 1 or more descriptions. Maximum 7 steps/descriptions, otherwise tactic becomes a new domain, see: [Contributor Guide](Contributor_guide.md)
 ### *Instruction 1*
 -	Step 1
