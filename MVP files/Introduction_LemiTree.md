@@ -30,7 +30,7 @@ The information structure also allows you to curiously browse through different 
 
 - Only actionable tactics that an individual can use will go through the filter
 
-    → Image endless information → filter (only within influence sphere; only for growth; only on domains that are important for all of us; minimized) →  Lemitree [to-do]
+    → Image endless information → filter (only within influence sphere; only for growth; only on domains that are important for all of us; minimized) →  Lemitree [todo]
 
 
 - We have chosen to open-source, as we believe that together we know more than any of us alone
