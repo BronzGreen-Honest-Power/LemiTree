@@ -13,7 +13,7 @@ We give you five example keystone habits (there are many more) of which we recom
 1. [Habit tracking](Habit_tracking.md)
 2. Sleep: [Fixed sleeping time](Fixed_sleeping_time.md)
 3. Nourishment: [Meal-prepping](Meal-prepping.md)
-4. Movement: [10,000 steps/day](10,000_steps/day.md)
+4. Movement: [10,000 steps per day](10,000_steps_per_day.md)
 5. Money: [Minimize recurring payments](Minimize_recurring_payments.md)
 
 Focus at least one month on any of these subjects and/or tactics to see some measurable progress.
