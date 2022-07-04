@@ -35,10 +35,11 @@ Small snacks with a lot of nutrients and a low amount of energy can be beneficia
 The chance of stomach acid splashing up your throat is also reduced when we do not eat a full meal in the three hours before going to bed (2).
 
 ### *Benefit 4*
-A second aspect to eating close before bed is that it requires effort for our body to process food. This causes blood to flow to our metabolism which is an activating activity (source). It also causes the body temperature to raise (source). This in turn decreases our sleep quality.
+A second aspect to eating close before bed is that it requires effort for our body to process food. This causes blood to flow to our metabolism which is an activating activity (source [todo]). It also causes the body temperature to raise (source [todo]). This in turn decreases our sleep quality.
 
 ### *Benefit 5*
-Eating three to four hours before bed decreases the chance of snacking just before bed (source).
+Eating three to four hours before bed decreases the chance of snacking just before bed (source [todo]).
+[//]: <> (EO-why)
 
 [//]: <> (EO-why)
 ## **How**
