@@ -48,7 +48,8 @@ Eating three to four hours before bed decreases the chance of snacking just befo
 If you have little restrictions in the last four to five hours before bed, this tactic is easy.
 
 ### *Instruction 2*
-If you work until shortly before bed, look at __Mealprepping__ (link) or __Food delivery__ (link) for bringing good food (with you) to your work.
+If you work until shortly before bed, look at __Mealprepping__ (link [todo]) or __Food delivery__ (link [todo]) for bringing good food (with you) to your work.
+[//]: <> (EO-how)
 
 [//]: <> (EO-how)
 
