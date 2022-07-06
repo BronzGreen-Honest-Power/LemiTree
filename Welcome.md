@@ -1,9 +1,8 @@
 #Welcome to LemiTree!
 
-Our essential intent is to support 1 million global citizens self-develop and flourish by 2025.
-For this purpose, we have created LemiTree.
-
 At LemiTree, you can dive deep in many tactics to improve the essential domains of life. This tree of knowledge only consists of tactics that help you require Less Effort & More Impact (Lemi). Most of us namely like to experience an abundance of time, adventures, be fit, wealth, experience purpose, feel calm, be physically, psychologically and digitally safe, experience growth, feel content, be loved and respected, have a sharp focus and mind and perhaps most importantly, experience internal peace and validation as well as to celebrate life both together with incredible people as well as in solitude.
+
+Our essential intent is to support 1 million global citizens self-develop and flourish by 2025. For this purpose, we have created LemiTree.
 
 We will provide the tactics, you will however have to act them out before experiencing the benefits. Therefore, please use LemiTree to continuously improve your life and make it as amazing as possible. It will be the greatest gift you give to you yourself, to your loved ones and to society at large. You can read the [Introduction LemiTree](Introduction_LemiTree.md) for more information on the what, why and how of our database.
 
