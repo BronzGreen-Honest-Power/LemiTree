@@ -20,7 +20,7 @@
 
 ## **Intro**
 [//]: <> (BO-intro)
-Introduction to the tactic.
+Also called circadian rhythm.
 
 [//]: <> (EO-intro)
 ## **Why**
