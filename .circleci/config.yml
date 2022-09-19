@@ -3,17 +3,17 @@
 version: 2.1
 
 constants:
-  - &scripts_dir "../scripts"
+  - &working_dir "~/project"
 
 commands:
   run_tests:
     steps:
       - checkout
-      - run: ../scripts/run_tests.sh
-	
+      - run: ./.scripts/run_tests.sh
+
 jobs:
   # If we only have one job, it must be named 'build'
-  build: 
+  build:
     docker:
       - image: cimg/base:2022.08
     steps:

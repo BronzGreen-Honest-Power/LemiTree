@@ -3,6 +3,7 @@
 sections=("Infographic" "Video" "Audio" "Intro" "Why" "How" "Sources")
 file="$1"
 missing_sections=()
+err_log=~/err_log.txt
 
 for section in ${sections[@]}; do
 	result="$(grep "\#\# \*\*${section}\*\*" "$file")"
@@ -19,5 +20,5 @@ function list_missing_sections() {
 }
 
 first_el_missing=$(echo $missing_sections)
-[ -z "$first_el_missing" ]  || (echo $err_msg ; list_missing_sections "${missing_sections[@]}" ; exit 1)
+[ -z "$first_el_missing" ]  || (echo $err_msg >> $err_log ; list_missing_sections "${missing_sections[@]}" >> $err_log)
 

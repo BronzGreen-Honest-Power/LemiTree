@@ -5,6 +5,7 @@ file="$1"
 tag_prefixes=("BO-" "EO-")
 tags=("infographic" "video" "audio" "intro" "why" "how" "sources")
 missing_tags=()
+err_log=~/err_log.txt
 
 function list_missing_tags() {
         items=$@
@@ -25,4 +26,4 @@ done
 err_msg="The file '$file' is missing the following tags:"
 
 first_el_missing=$(echo $missing_tags)
-[ -z "$first_el_missing" ] || (echo $err_msg ; list_missing_tags "${missing_tags[@]}" ; exit 1)
+[ -z "$first_el_missing" ] || (echo $err_msg >> $err_log ; list_missing_tags "${missing_tags[@]}" >> $err_log)
