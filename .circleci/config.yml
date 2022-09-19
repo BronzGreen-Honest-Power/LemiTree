@@ -1,0 +1,21 @@
+# CircleCI intro YAML guide: https://circleci.com/docs/introduction-to-yaml-configurations
+
+version: 2.1
+
+constants:
+  - &scripts_dir "../scripts"
+
+commands:
+  run_tests:
+    steps:
+      - checkout
+      - run: ../scripts/run_tests.sh
+	
+jobs:
+  # If we only have one job, it must be named 'build'
+  build: 
+    docker:
+      - image: cimg/base:2022.08
+    steps:
+      - run_tests
+
