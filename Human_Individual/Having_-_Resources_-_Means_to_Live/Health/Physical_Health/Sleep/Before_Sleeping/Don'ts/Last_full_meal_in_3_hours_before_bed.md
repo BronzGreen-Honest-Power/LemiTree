@@ -57,4 +57,4 @@ If you work until shortly before bed, look at __Mealprepping__ (link [todo]) or 
 [//]: <> (BO-sources)
 (1)	[The Health Impact of Nighttime Eating: Old and New Perspectives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4425165/)
 (2)	[Association between dinner-to-bed time and gastro-esophageal reflux disease](https://www.ncbi.nlm.nih.gov/pubmed/16393212)
-[//]: <> (EO-scientific)
+[//]: <> (EO-sources)
