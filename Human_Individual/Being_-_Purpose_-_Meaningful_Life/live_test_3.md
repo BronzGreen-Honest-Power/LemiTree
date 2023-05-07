@@ -1,0 +1,42 @@
+[//]: <> (U)
+
+# **live test 3**
+
+## **Infographic**
+[//]: <> (BO-infographic)
+* Link to image or formatted image.
+
+[//]: <> (EO-infographic)
+## **Video**
+[//]: <> (BO-video)
+* Link to video.
+
+[//]: <> (EO-video)
+## **Audio**
+[//]: <> (BO-audio)
+* Link to audio.
+
+[//]: <> (EO-audio)
+## **Intro**
+[//]: <> (BO-intro)
+
+
+[//]: <> (EO-intro)
+## **Why**
+[//]: <> (BO-why)
+
+
+
+
+[//]: <> (EO-why)
+## **How**
+[//]: <> (BO-how)
+
+
+
+
+[//]: <> (EO-how)
+## **Sources**
+[//]: <> (BO-sources)
+
+[//]: <> (EO-sources)
