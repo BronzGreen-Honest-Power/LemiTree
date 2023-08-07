@@ -4,15 +4,18 @@ The collection of the best self-development tactics that humanity has to offer i
 
 ## Key-points for this database (what)
 
+![Alt text](https://ibb.co/gtw8pZT "Overview concept of LemiTree")
+
 - LemiTree is a toolbox of self-development tactics
 - These tactics aid you in having Less Effort & More Impact (Lemi)
 - The focus lies on the most essential domains of life
+- We seek to transparently communicate the scientific or social support for any protocol
+- We aim to provide the information in different formats (text, infographic, video, audio, expert, courses, ...)
+- In the future, we will integrate active and passive data trackers in order to validate whether information has lead to action
 
 - LemiTree is built in a manner that balances simplicity, completeness and comprehensiveness
 - Use, share and improve it freely and with whoever you like
 - This way, we will connect many people & actionable ideas
-
-- LemiTree is using a scalable architecture for content creation and spreading
 - To collect the best of our human civilization, we need your support
 - If you would like to help us help everyone, please go to [Contributor Guide](Contributor_Guide.md)
 
