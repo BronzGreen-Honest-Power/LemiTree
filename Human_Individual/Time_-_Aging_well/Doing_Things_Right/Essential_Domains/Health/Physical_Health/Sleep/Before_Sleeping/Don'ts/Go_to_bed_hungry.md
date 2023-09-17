@@ -31,7 +31,7 @@ Eating a healthy bedtime snack can be beneficial, especially if it will prevent 
 [//]: <> (EO-why)
 ## **How**
 [//]: <> (BO-how)
-Description of how in bullet points for 1 or more descriptions. Maximum 7 steps/descriptions, otherwise tactic becomes a new domain  See [Contributor_Guide]()
+
 ### *Instruction 1*
 Recommended foods to eat then would be those that __Boost melatonin__, the sleep hormone, in our bodies.
 
@@ -42,5 +42,6 @@ If you really would like something sweet or salt, eat some fruits, berries or so
 
 ## **Sources**
 [//]: <> (BO-sources)
-(1)	[Evening ready-to-eat cereal consumption contributes to weight management](https://www.ncbi.nlm.nih.gov/pubmed/15310735)
-[//]: <> (EO-scientific)
+- (1) [Evening ready-to-eat cereal consumption contributes to weight management](https://www.ncbi.nlm.nih.gov/pubmed/15310735)
+
+[//]: <> (EO-sources)

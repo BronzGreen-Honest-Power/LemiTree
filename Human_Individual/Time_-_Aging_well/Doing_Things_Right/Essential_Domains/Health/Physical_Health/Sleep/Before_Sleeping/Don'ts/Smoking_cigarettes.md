@@ -46,6 +46,7 @@ The best way of using cigarettes is to quit altogether. Even though this can be 
 
 ## **Sources**
 [//]: <> (BO-sources)
-(1)	[Cigarette smoking might impair memory and sleep quality](https://www.sciencedirect.com/science/article/pii/S0929664612001180)
-(2)	[The relation between cigarette smoking and sleep disturbance](https://www.ncbi.nlm.nih.gov/pubmed/8078854)
-[//]: <> (EO-scientific)
+- (1) [Cigarette smoking might impair memory and sleep quality](https://www.sciencedirect.com/science/article/pii/S0929664612001180)
+- (2) [The relation between cigarette smoking and sleep disturbance](https://www.ncbi.nlm.nih.gov/pubmed/8078854)
+
+[//]: <> (EO-sources)
