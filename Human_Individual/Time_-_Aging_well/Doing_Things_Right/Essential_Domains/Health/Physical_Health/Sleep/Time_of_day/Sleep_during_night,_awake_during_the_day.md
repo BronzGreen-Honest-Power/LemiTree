@@ -53,4 +53,5 @@ The best way to synchronize yourself with this natural light-dark cycle is as fo
 - (5) [The Pineal Gland and Melatonin](http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pineal.html)
 - (6) [The cortisol awakening response - normal values and confounds](https://www.noiseandhealth.org/article.asp?issn=1463-1741;year=2000;volume=2;issue=7;spage=79;epage=88;aulast=Wust)
 - (7) [Human circadian pacemaker is sensitive to light throughout subjective day without evidence of transients](https://journals.physiology.org/doi/pdf/10.1152/ajpregu.1997.273.5.r1800)
-[//]: <> (EO-scientific)
+
+[//]: <> (EO-sources)

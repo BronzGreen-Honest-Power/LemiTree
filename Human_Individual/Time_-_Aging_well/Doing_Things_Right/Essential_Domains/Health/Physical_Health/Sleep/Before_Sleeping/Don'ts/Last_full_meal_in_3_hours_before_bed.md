@@ -39,7 +39,6 @@ A second aspect to eating close before bed is that it requires effort for our bo
 
 ### *Benefit 5*
 Eating three to four hours before bed decreases the chance of snacking just before bed (source [todo]).
-[//]: <> (EO-why)
 
 [//]: <> (EO-why)
 ## **How**
@@ -49,12 +48,13 @@ If you have little restrictions in the last four to five hours before bed, this 
 
 ### *Instruction 2*
 If you work until shortly before bed, look at __Mealprepping__ (link [todo]) or __Food delivery__ (link [todo]) for bringing good food (with you) to your work.
-[//]: <> (EO-how)
 
 [//]: <> (EO-how)
 
 ## **Sources**
 [//]: <> (BO-sources)
-(1)	[The Health Impact of Nighttime Eating: Old and New Perspectives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4425165/)
-(2)	[Association between dinner-to-bed time and gastro-esophageal reflux disease](https://www.ncbi.nlm.nih.gov/pubmed/16393212)
-[//]: <> (EO-scientific)
+- (1) [The Health Impact of Nighttime Eating: Old and New Perspectives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4425165/)
+- (2) [Association between dinner-to-bed time and gastro-esophageal reflux disease](https://www.ncbi.nlm.nih.gov/pubmed/16393212)
+
+[//]: <> (EO-sources)
+

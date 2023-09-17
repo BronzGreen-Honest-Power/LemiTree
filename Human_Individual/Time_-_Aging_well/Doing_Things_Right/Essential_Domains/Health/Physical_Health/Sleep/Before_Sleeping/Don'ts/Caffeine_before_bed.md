@@ -36,11 +36,13 @@ Even though caffeine can be really useful to improve our performance in the day,
 
 [//]: <> (EO-how)
 
-## Sources
+## **Sources**
 [//]: <> (BO-sources)
 
-- (1)	[Caffeine for the Sustainment of Mental Task Performance: Formulations for Military Operations](https://www.ncbi.nlm.nih.gov/books/NBK223799/)
-- (2)	[central nervous system stimulant](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/central-nervous-system-stimulant)
-- (3)	[Caffeine Effects on Sleep Taken 0, 3, or 6 Hours before Going to Bed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3805807/)
-- (4)	[Pharmacology of Caffeine](https://www.ncbi.nlm.nih.gov/books/NBK223808/)
-- (5)	[Serum caffeine half-lives. Healthy subjects vs. patients having alcoholic hepatic disease](https://www.ncbi.nlm.nih.gov/pubmed/7361718?dopt=Abstract)
+- (1) [Caffeine for the Sustainment of Mental Task Performance: Formulations for Military Operations](https://www.ncbi.nlm.nih.gov/books/NBK223799/)
+- (2) [central nervous system stimulant](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/central-nervous-system-stimulant)
+- (3) [Caffeine Effects on Sleep Taken 0, 3, or 6 Hours before Going to Bed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3805807/)
+- (4) [Pharmacology of Caffeine](https://www.ncbi.nlm.nih.gov/books/NBK223808/)
+- (5) [Serum caffeine half-lives. Healthy subjects vs. patients having alcoholic hepatic disease](https://www.ncbi.nlm.nih.gov/pubmed/7361718?dopt=Abstract)
+
+[//]: <> (EO-sources)
