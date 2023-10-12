@@ -1,0 +1,1 @@
+ask someone whether you can support them in reducing their expenditures or increasing their income and negotiate a "no cure, no pay" strategy. For example if you reduce their recurring payments by a certain amount, you get 10% of the amount they have saved.
